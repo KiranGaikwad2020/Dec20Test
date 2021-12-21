@@ -1,1 +1,3 @@
 This is Eigth file
+This file is edited by feature2
+This file is edited by feature1
